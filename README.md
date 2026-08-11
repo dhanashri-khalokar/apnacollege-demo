@@ -1,3 +1,3 @@
 # apnacollege-demo
-this is my first repository
-author - dhanashri khalokar
+this is my first git repository.
+author - dhanashri khalokar.
